@@ -13,8 +13,8 @@ The functionalities of the to-do list includes:
 
 ## Code Sample
 The following code sample is the jQuery code responsible for the major functionality of the To-Do List; that is, deleting an existing to-do and adding a new to-do.
-![Alt Text](url)
+![Alt Text](https://github.com/docmu/toDoList/blob/master/Screenshot%20(62).png)
 
 The following css is responsible for the trash can hover animation.
-![Alt Text](url)
+![Alt Text](https://github.com/docmu/toDoList/blob/master/Screenshot%20(63).png)
 
