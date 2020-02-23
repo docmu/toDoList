@@ -11,7 +11,7 @@ The functionalities of the to-do list includes:
 ## Demo
 ![AltText](https://media.giphy.com/media/ZGBPOdQZube7KyLhai/giphy.gif)
 
-## Code Sample
+## Code Samples
 The following code sample is the jQuery code responsible for the major functionality of the To-Do List; that is, deleting an existing to-do and adding a new to-do.
 ![Alt Text](https://github.com/docmu/toDoList/blob/master/Screenshot%20(62).png)
 
