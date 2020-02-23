@@ -1,6 +1,6 @@
 # toDoList
 ## Description
-The libraries used to build this project included jQuery, Font Awesome, and Google Fonts.
+The libraries used to build this project included jQuery, Font Awesome, and Google Fonts. 
 The functionalities of the to-do list includes:  
     * striking lines through the to-dos  
     * deleting to-dos with the trash can icon  
